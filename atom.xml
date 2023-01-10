@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dogccc.com</id>
+    <title>白嫖</title>
+    <updated>2023-01-10T10:59:51.875Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dogccc.com"/>
+    <link rel="self" href="https://dogccc.com/atom.xml"/>
+    <subtitle>复制(Ctrl+C)粘贴(Ctrl+V)</subtitle>
+    <logo>https://dogccc.com/images/avatar.png</logo>
+    <icon>https://dogccc.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, 白嫖</rights>
+</feed>
